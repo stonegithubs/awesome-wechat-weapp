@@ -6,6 +6,7 @@
 - [新闻报道](#新闻报道)
 - [工具](#工具)
 - [插件](#插件)
+- [服务端](#服务端)
 - [分析](#分析)
 - [讨论](#讨论)
 - [教程](#教程)
@@ -39,12 +40,16 @@
 - [Labrador 支持ES6/7的微信小程序组件化开发框架](https://github.com/maichong/labrador)
 - [WEPT 一个微信小程序实时运行环境](https://github.com/chemzqm/wept)
 - [wxml-parser JavaScript WXML parser](https://github.com/seanlong/wxml-parser) 以及[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
+- [小程序基本的开发框架抽取](https://github.com/hss01248/wxapp-devFrame) 
 
 ## 插件
 
 - [vim 插件(chemzqm/wxapp.vim)](https://github.com/chemzqm/wxapp.vim)
 - [sublime text 2&3 snippet(Abbotton/weapp-snippet-for-sublime-text-2-3)](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3)
 - [IntelliJ IDEA插件，注入方法](https://github.com/lypeer/Matchmaker)
+
+## 服务端
+- [NAMI：专为微信小程序服务端开发而生](https://github.com/wodenwang/nami)
 
 ## 文档
 
@@ -128,6 +133,7 @@
 
 ## 代码
 
+- [微信小程序：音乐播放器 技术栈: redux + es7 +labrador (eyasliu/wechat-app-music)](https://github.com/eyasliu/wechat-app-music)
 - [微信小应用示例代码(phodal/weapp-quick)](https://github.com/phodal/weapp-quick)
 - [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
 - [微信小应用- 掘金主页信息流(hilongjw/weapp-gold)](https://github.com/hilongjw/weapp-gold)
